@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 import readlineSync from 'readline-sync';
+
 const roundsCount = 3;
 
 const playGame = (rule, getQuestionAndAnswer) => {
