@@ -20,4 +20,4 @@ lint:
 	npx eslint .
 
 lint-fix:
-	npm run lint -- --fix
+	npx eslint --fix .
