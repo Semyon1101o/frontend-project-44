@@ -16,7 +16,7 @@ brain-progression:
 brain-prime:
 	node bin/brain-prime.js
 
-lint:
+linter:
 	npx eslint .
 
 lint-fix:
